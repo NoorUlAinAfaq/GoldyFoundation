@@ -26,15 +26,15 @@ export default function Home() {
         {/* hero text container */}
         <div className=" text-center lg:text-left xl:pt-10">
           <div>
-            <h2 className="xl:whitespace-nowrap text-[28px] -tracking-[1.54px] md:text-[32px] lg:tracking-normal lg:text-[40px] xl:-mt-10 xxl:-mt-10">
+            <h2 className="xl:whitespace-nowrap text-[18px] -tracking-[1.54px] md:text-[22px] lg:tracking-normal lg:text-[30px] xl:-mt-10 xxl:-mt-10">
               {" "}
               <span className="text-brandColor">
-                🚀 Goldy Social Crypto Cash is Here! 🚀 </span>
+                🚀 Goldy Crypto Cash with its social meaning is here! 🚀 </span>
             </h2>
           </div>
           <div>
             <h1 className="mt-4 text-[20.89px] -tracking-[2.469px] md:text-[40px] xxl:tracking-normal xl:text-[40px] xl:tracking-[-5.934px] xl:whitespace-nowrap hero-text">
-              <span className="text-brandColor">💰 The Altcoin with a Golden Touch! 💰 </span>
+              <span className="text-brandColor">💰 The Altcoin with a Golden Heart! 💰 </span>
             </h1>
           </div>
           {/* <h1 className="text-[44.89px] -tracking-[2.469px] leading-[105%] md:text-[85px] xl:tracking-normal xl:text-[65px] xxl:text-[90px] xxl:tracking-[-1.934px] xl:whitespace-nowrap hero-text">
@@ -45,7 +45,7 @@ export default function Home() {
             Secured by Gold, Supercharged by Community
           </button> */}
           <p className="sub-title-large xl:pb-2 xxl:pb-20">
-            Forget the hype—Goldy Social Crypto Cash is bringing real value to the altcoin space with gold-backed stability and meme-powered momentum!
+          Goldy Crypto Cash is bringing back the original meaning of crypto which has been sacrificed to wild speculation. The perspectives of social advantages and power over your values are back.
             <br />
             <button className="btn my-4 text-xl md:text-1xl xxl:text-2xl xxl:my-8 text-yellow-500">
               🔹 Secured by Gold, Supercharged by Community<br />
