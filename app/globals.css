@@ -4,10 +4,10 @@
 
 body {
   padding-top: 1 px;
-  background-color: #00003f;
+  background-color: #040407;
   font-family: "Space Grotesk", sans-serif;
   position: relative;
-  background-image: url("/images/Virtual X Kimp.jpg");
+  /* background-image: url("/images/Virtual X Kimp.jpg"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
