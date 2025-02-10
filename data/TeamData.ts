@@ -2,7 +2,8 @@ import Mista from "~/ourTeamImages/Ezcaray-primary-logo.png"
 import One from "~/ourTeamImages/one.jpeg"
 import Ezcaray from "~/ourTeamImages/cropped-cf_avatar.jpg"
 import vital from "~/ourTeamImages/vital.jpeg"
-import mista from "~/ourTeamImages/mista1.jpeg"
+import mista from "~/ourTeamImages/Centralita.jpeg"
+import mila from "~/ourTeamImages/mila.jpeg"
 
 export const OurTeam = [
     {
@@ -31,15 +32,14 @@ export const OurTeam = [
     },
     {
         photo: mista,
-        name: "MISTA",
-        title: "Health Techonologies",
-        link: "https://cryptofundamentalist.com/"
+        name: "LA CENTRALITA",
+        title: "Service platform",
+        link: "https://centralita.one/"
     },
     {
-        photo: mista,
-        name: "CENTRALITA",
-        title: "Service platform",
-        link: "https://cryptofundamentalist.com/"
+        photo: mila,
+        name: "MILA",
+        title: "E-Commerce platform",
     },
     
 ];

@@ -2,7 +2,7 @@ export default function WhatsApp() {
   return (
     <div>
       <a
-        href="https://wa.me/34672983591?text=I%20want%20to%20inquire%20about%20the%20GOLDY%20Tokens."
+        href="https://chat.whatsapp.com/FGR3GqYOG4F8NfEWjV8reS"
         target="_blank"
         rel="noopener noreferrer"
       >

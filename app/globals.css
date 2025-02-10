@@ -4,7 +4,7 @@
 
 body {
   padding-top: 1 px;
-  background-color: #040407;
+  background-color: #040e0f;
   font-family: "Space Grotesk", sans-serif;
   position: relative;
   /* background-image: url("/images/Virtual X Kimp.jpg"); */
@@ -12,9 +12,9 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
-input[type="number"] {
-  -moz-appearance: textfield;
-}
+/* input[type="number"] {
+  /* -moz-appearance: textfield; 
+} */
 
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
