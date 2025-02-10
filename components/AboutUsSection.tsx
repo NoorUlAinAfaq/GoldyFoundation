@@ -24,7 +24,7 @@ const AboutUsSection = () => {
                   About Us
                 </h1>
                 <p className="my-2 pr-10 sm:my-10 text-[#8A8A8E] font-bold xxl:text-[22px] xxl:leading-[33px]">
-                At Goldy Token, we believe in combining the fun of memes with the speed and innovation of Solana! Our mission is to bring you a decentralized, community-driven asset that blends hype, humor, and utility. Say hello to GOldy Token – the meme coin that shines brighter than gold, fueled by fast transactions, low fees, and pure degen energy.
+                At Goldy Token, we believe in combining the fun of crypto with the speed and innovation of Solana! Our mission is to bring you a decentralized, community-driven asset that blends hype, humor, and utility. Say hello to Goldy Token – the crypto coin that shines brighter than gold, fueled by fast transactions, low fees, and pure degen energy.
                 </p>
               </div>
             </div>

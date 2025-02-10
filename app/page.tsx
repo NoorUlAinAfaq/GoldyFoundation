@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Phone from "../public/Phone..jpeg";
-import PhoneDisply from "../public/PhoneDisply.jpeg";
+import PhoneDisply from "../public/eCommerce.jpg";
+import Logo from "../public/images/MainLogo.jpeg";
 import TeamSection from "@/components/TeamSection";
 import AboutUsSection from "@/components/AboutUsSection";
 import Faqs from "@/components/Faqs/Faqs";
@@ -45,13 +46,14 @@ export default function Home() {
             Secured by Gold, Supercharged by Community
           </button> */}
           <p className="sub-title-large xl:pb-2 xxl:pb-20">
-          Goldy Crypto Cash is bringing back the original meaning of crypto which has been sacrificed to wild speculation. The perspectives of social advantages and power over your values are back.
+            Goldy Crypto Cash is bringing back the original meaning of crypto which has been sacrificed to wild speculation. The perspectives of social advantages and power over your values are back.
             <br />
             <button className="btn my-4 text-xl md:text-1xl xxl:text-2xl xxl:my-8 text-yellow-500">
-              🔹 Secured by Gold, Supercharged by Community<br />
+              🔹 Secured by a vast network of partners <br />
+              🔹 Ready made for E-Commerce <br />
               🔹 Blockchain + AI = Unstoppable Growth<br />
-              🔹 Shaping the Future of Digital Wealth<br />
-
+              🔹 Shaping the future of digital economy, vulnerable societies and individuals<br />
+              🔹 Backed by My Gold Coin Security Token<br />
               Goldy isn’t just another altcoin—it’s your digital gold rush! Ride the wave and turn memes into millions!
             </button>
             <p className="text-brandColor">
@@ -63,7 +65,7 @@ export default function Home() {
         {/* hand image container*/}
         <div className="w-[500px] pt-2 md:w-full md:ml-auto xl:ml-[300px] xl:mt-1 xl:pt-2 xl:mb-[6rem] xxl:mt-1 xxl:mb-[3rem] xxl:ml-112">
           <Image
-            src={Phone}
+            src={Logo}
             alt="phone"
             quality={100}
             className="h-[350px] md:h-[500px] md:w-[650px] rounded-3xl"
@@ -84,14 +86,14 @@ export default function Home() {
           <div className="xl:text-4xl text-2xl font-bold xxl:text-6xl">
             <span className="text-brandColor">GOLDY SOCIAL CRYPTO CASH</span> <br />
             <p className="text-orange-100 pt">
-              🔸 Your Digital Gold Rush Awaits!
+              🔸 GOLDY CRYPTO CASH, fair, social and prosperity
             </p>
           </div>
           <p className="text-dark2 font-bold xxl:text-2xl my-6 pr-10">
-            Why just hold when you can mine wealth in the digital era? Goldy Social Crypto Cash is the ultimate meme coin with a golden vision, combining community power with the unstoppable growth of Solana.
+          Why just hold when you can rearrange your life by controlling your own values.  Goldy is change into a new economy and culture which will not stop at exchanges. Street commerce and e-commerce are all included from the beginning and your privacy been kept secret. Backed by trust and driven by innovation.
           </p>
           <p className="text-dark2 font-bold xxl:text-2xl pr-10">
-            💰 Backed by trust, driven by innovation—Goldy isn’t just another token; it’s your ticket to financial freedom. No outdated barriers, no gatekeepers—just pure potential.
+            💰 Goldy isnt just another coin, its your ticket to financial independence and the collaborative sense of community. No outdated barriers, no gatekeepers---just pure potential.
           </p>
 
           {/* <button className="font-SourceSans3 bg-brandColor mt-8 text-2xl px-8 font-bold leading-150 hover:bg-transparent border border-brandColor hover:text-brandColor text-white py-4 rounded-2xl">Buy PreSale</button> */}

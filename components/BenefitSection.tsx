@@ -15,10 +15,10 @@ const BenefitSection = () => {
                   Potential & Beyond!
                 </h1>
                 <p className="my-2 pr-10 sm:my-10 text-[#8A8A8E] font-bold xxl:text-[22px] xxl:leading-[33px]">
-                  At Goldy Social Crypto Cash, we're not just another meme coin—we're a movement redefining digital gold on Solana!
+                Unlock the future with a massive growth potential arriving from daily transactions in trade and commerce, At Goldy Crypto Cash we´re no just another copy coin---we are a much bigger movement redefining economy.
                 </p>
                 <p className="my-2 pr-10 sm:my-10 text-[#8A8A8E] font-bold xxl:text-[22px] xxl:leading-[33px]">
-                  Our mission goes beyond speculation; we're pioneering real utility and community-driven wealth. With verified opportunities backing our vision, Goldy is charting an unstoppable path to success—all without relying on traditional trading mechanics.
+                Our mission is beyond speculation, we are pioneering real utility and community-driven wealth. With verified opportunities backing our vision. Goldy is charting an unstoppable path to success--all without relying on traditional trading mechanics.
                 </p>
               </div>
             </div>
