@@ -4,52 +4,52 @@ const RoadMapSection = () => {
   const preLaunchData = [
     {
       no: 1,
-      title: "Research",
-      desc: `Market Research, Goals, Vision & Mission.`,
-      status: "completed",
-    },
-    {
-      no: 2,
-      title: "Corporate Parent",
-      desc: "Ezcaray Mining UK",
-      status: "completed",
-    },
-    {
-      no: 3,
-      title: "Pre-Lauch Development",
-      desc: "Smart Contract Development, Integration with Solana, Website Prototyping, Whitepaper Release",
-      status: "completed",
-    },
-    {
-      no: 4,
-      title: "1st quarter of 2025 - Launch of GOLDY",
-      desc: "GOLDY Token Sale",
-      status: "completed",
-    },
-  ];
-
-  const postLaunchData = [
-    {
-      no: 5,
-      title: "2nd quarter of 2025 - Exchange Listing",
-      desc: "Wallet and exchange facilities",
+      title: "Initial Launch",
+      desc: `ICO of Goldy Crypto Cash start 12.02.2025 on pink Sale`,
       status: "upcoming",
     },
     {
-      no: 6,
-      title: "Tracking Mineral and Mining on the Blockchain",
-      desc: "Empowering mineral and mining through blockchain, ensuring transparent, traceable, and ethical practices.",
+      no: 2,
+      title: "Own blockchain",
+      desc: " Transforming into its own blockchain / December 2025",
+      status: "upcoming",
     },
     {
-      no: 7,
-      title: "AI Integration and Testing",
-      desc: "Develop and implement the software connecting Mineral Global Yield AI with GOLDY.",
+      no: 3,
+      title: "E-Commerce Development",
+      desc: "Connecting E-Commerce plattforms January 2026 (Mila, Vital Vie and Centralita) ",
+      status: "upcoming",
     },
     {
-      no: 8,
-      title: "Mining Expansion",
-      desc: "Mining Expansion in Sierra Leone, Mexico, South Africe. Miners association under GOLDY Coin led by EZCARAY Mining",
+      no: 4,
+      title: "Establishment of community centers",
+      desc: "Social community centers of Goldy in EU, USA, India, Pakistan, China on April 2026. Education of sustainability and self governance (valid for all cryptos) ",
+      status: "upcoming",
     },
+  ]
+
+  // const postLaunchData = [
+  //   {
+  //     no: 5,
+  //     title: "Price Evolution",
+  //     desc: "target price evolution 1,50 USD/ EUR by January 2026.",
+  //     status: "upcoming",
+  //   },
+  //   {
+  //     no: 6,
+  //     title: "Tracking Mineral and Mining on the Blockchain",
+  //     desc: "Empowering mineral and mining through blockchain, ensuring transparent, traceable, and ethical practices.",
+  //   },
+  //   {
+  //     no: 7,
+  //     title: "AI Integration and Testing",
+  //     desc: "Develop and implement the software connecting Mineral Global Yield AI with GOLDY.",
+  //   },
+  //   {
+  //     no: 8,
+  //     title: "Mining Expansion",
+  //     desc: "Mining Expansion in Sierra Leone, Mexico, South Africe. Miners association under GOLDY Coin led by EZCARAY Mining",
+  //   },
     // {
     //   no: 9,
     //   title: "Exploration of New Gold Fields",
@@ -70,7 +70,7 @@ const RoadMapSection = () => {
     //   title: "Sky Is The Limit",
     //   desc: "Possibility Of Expansion to Other Parts of the World",
     // },
-  ];
+  //];
   return (
     <section className="main-container mt-10" id="roadmap">
       <div className="max-w-[1440px] mx-auto roadmap-bg text-orange-100">
@@ -130,7 +130,7 @@ const RoadMapSection = () => {
               );
             })}
           </div>
-          <div className="ml-0 md:ml-6 xl:ml-0">
+          {/* <div className="ml-0 md:ml-6 xl:ml-0">
             {postLaunchData.map((item, index) => {
               return (
                 <div
@@ -157,7 +157,7 @@ const RoadMapSection = () => {
                 </div>
               );
             })}
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
