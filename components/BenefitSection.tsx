@@ -30,7 +30,9 @@ const BenefitSection = () => {
             </div>
           </div>
         </div>
+
       </div>
+      
       {/* new ended */}
     </>
   );

@@ -67,10 +67,9 @@ const Footer = () => {
       <div className="flex justify-center md:justify-between text-white flex-col md:flex-row">
         <div className="py-4">
           {/* <Image src={Logo} alt="logo" className="mb-5" width={197.26} height={60.67} /> */}
-          <p className="font-normal text-dark2">SHAPING TOMORROW'S FINANCES, BACKED BY THE TIMELESS VALUE
-            <br /> OF GOLD. POWERED BY CRYPTOCURRENCIES,
-            <br /> BLOCKCHAIN TECHNOLOGY &
-            <br /> ARTIFICAL INTELLEGENCE. </p>
+          <p className="font-normal text-dark2">SHAPING TOMORROW'S FINANCES, BACKED BY GROWING POWER NETWORK OF CRYPTOCURRENCIES, WITH
+            <br /> BLOCKCHAIN TECHNOLOGY & ARTIFICAL INTELLEGENCE. </p>
+            <br /> Yours Goldy Foundation
           <div className="flex mt-[48px]">
             {SocialLink.map((data, index) => (
               <div key={index}>

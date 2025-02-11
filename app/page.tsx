@@ -54,7 +54,7 @@ export default function Home() {
               🔹 Blockchain + AI = Unstoppable Growth<br />
               🔹 Shaping the future of digital economy, vulnerable societies and individuals<br />
               🔹 Backed by My Gold Coin Security Token<br />
-              Goldy isn’t just another altcoin—it’s your digital gold rush! Ride the wave and turn memes into millions!
+              Goldy isn’t just another altcoin—Ride the wave and turn crypto into millions!
             </button>
             <p className="text-brandColor">
               {/* TOKEN ADDRESS: 0xEC0D3Fde1939e554123Ace9644ec6ae635B0256a */}
@@ -84,9 +84,9 @@ export default function Home() {
 
         <div className="xl:w-[40%] my-8 order-1 xl:order-2">
           <div className="xl:text-4xl text-2xl font-bold xxl:text-6xl">
-            <span className="text-brandColor">GOLDY SOCIAL CRYPTO CASH</span> <br />
+            <span className="text-brandColor">GOLDY CRYPTO CASH</span> <br />
             <p className="text-orange-100 pt">
-              🔸 GOLDY CRYPTO CASH, fair, social and prosperity
+              🔸 GOLDY CRYPTO CASH, fair and prosperity
             </p>
           </div>
           <p className="text-dark2 font-bold xxl:text-2xl my-6 pr-10">

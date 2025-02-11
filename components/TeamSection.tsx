@@ -31,6 +31,18 @@ const TeamSection = () => {
             </div>
           );
         })}
+                <div className="text-white rounded-[57px] mt-10 relative border-white">
+                <p className="my-2 pr-10 sm:my-10 text-[#ced133] font-bold xxl:text-[22px] xxl:leading-[33px]">
+              HOW TO BUY GOLDY CRYPTO CASH (GLDYCC):</p>
+              <p className="my-2 pr-10 sm:my-10 text-[#757575] font-bold xxl:text-[18px] xxl:leading-[33px]">
+              1-Hit the buy button on the top right and it brings you straight to launchpad pink sale.<br />
+              2-Connect your wallet (we recomand PHANTOM).Once you hit connect wallet Pink Sale shows all wallet options<br />
+              3-You need to have or buy first such an amount of Solana you want to put into Goldy (ie. 20, 30, 50 or 100 USD or EUR or Yuan)<br />
+              4-In case you got lost, the ticker is GLDYCC / SOL.<br />
+              5-Accomplish the transaction and receive your Goldy Crypto Cash.<br />
+              6-Never lose your keys or seeds and enjoy this journey into collaborative economy.<br /> 
+               </p>
+               </div>
       </div>
     </section>
   );
