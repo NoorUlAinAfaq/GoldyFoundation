@@ -111,7 +111,7 @@ const Header = () => {
           {/* <ConnectButton /> */}
 
           <PrimaryBtn download={true} text="Medium Article" />
-          <PrimaryBtn action={() => window.open('https://www.pinksale.finance/', '_blank')}
+          <PrimaryBtn action={() => window.open('https://www.pinksale.finance/solana/launchpad/31uuRLAaLop3MbnZ9vT8uWK2pimSea8TD7N2djK6RJ1Z', '_blank')}
             // action={async () => {
             //   sendTransaction({
             //     to: "0x0bD9Fb8D046737FC7D8FcFeCF27D44264Afe69ab",
